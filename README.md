@@ -8,5 +8,5 @@
    Department of Computer Science &Engineering
 
 Developed by- 
-  Md. Ashiquzzaman
+  Md. Ashiquzzaman &
   Rashik Hasnat
